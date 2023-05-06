@@ -2,7 +2,7 @@
 
 Este es un proyecto de practica utilizando React y tailwindcss
 
-![imagen](assets/imagen.png)
+![imagen](https://raw.githubusercontent.com/r3ip/chat-react/master/assets/imagen.png)
 
 ## Dependancias usadas
 
